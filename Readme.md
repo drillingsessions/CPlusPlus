@@ -38,7 +38,7 @@ sudo apt update
 sudo apt install -y clang cmake
 ``` 
 
-To verify everything was installed correctly, try to fetch each tool version by executing
+To verify everything was installed correctly, try to fetch each tool's version by executing
 ```bash
 clang --version
 cmake --version
