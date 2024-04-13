@@ -57,4 +57,6 @@ clang --version
 cmake --version
 ```
 
+VSCode CMake setup guide: https://code.visualstudio.com/docs/cpp/cmake-linux 
+
 # Happy coding 😎
