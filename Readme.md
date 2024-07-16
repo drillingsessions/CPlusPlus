@@ -28,6 +28,8 @@ Head over to [LLVM installation page](https://github.com/llvm/llvm-project/relea
 
 Head over to [CMake web site](https://cmake.org/), download the installer and follow installation instructions.
 
+Head over to [VS code website](https://code.visualstudio.com/docs/cpp/config-mingw), and follow the installation instructions for cmake generators, patched compilers for windows etc.
+
 **Please make sure to add each tool to PATH environment variable**
 This option should be provided by installer. Otherwise, please do it manually.
 
